@@ -1,2 +1,1 @@
-# portfolio
-My portfolio
+**Hi 👋 My name is Nickson Osiemo**
